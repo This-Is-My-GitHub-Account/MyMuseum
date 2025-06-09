@@ -6,7 +6,7 @@ export const museums = [
       'The Metropolitan Museum of Art presents over 5,000 years of art from around the world for everyone to experience and enjoy. Since its founding in 1870, The Met has always aspired to be more than a treasury of rare and beautiful objects.',
     shortDescription: "One of the world's largest and finest art museums.",
     image:
-      'https://images.unsplash.com/photo-1582036583990-d8bed72baa66?auto=format&fit=crop&q=80',
+      'https://upload.wikimedia.org/wikipedia/commons/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg',
     images: [
       'https://images.unsplash.com/photo-1582036583990-d8bed72baa66?auto=format&fit=crop&q=80',
       'https://images.unsplash.com/photo-1566127444979-b3d2b654e3d7?auto=format&fit=crop&q=80',
@@ -105,7 +105,7 @@ export const museums = [
     shortDescription:
       'A comprehensive collection of art and antiquities from around the globe.',
     image:
-      'https://images.unsplash.com/photo-1592194996308-7d7d4f860d4a?auto=format&fit=crop&q=80',
+      'https://upload.wikimedia.org/wikipedia/commons/5/5a/British_Museum_Great_Court%2C_London%2C_UK_-_Diliff.jpg',
     images: [
       'https://images.unsplash.com/photo-1592194996308-7d7d4f860d4a?auto=format&fit=crop&q=80',
       'https://images.unsplash.com/photo-1580568471664-4e9a1e4d6346?auto=format&fit=crop&q=80',
@@ -155,7 +155,7 @@ export const museums = [
     shortDescription:
       'A treasure trove of art and history within Vatican City.',
     image:
-      'https://images.unsplash.com/photo-1587502536263-1c1c3b9a1f7f?auto=format&fit=crop&q=80',
+      'https://upload.wikimedia.org/wikipedia/commons/f/f0/VaticanMuseumStaircase.jpg',
     images: [
       'https://images.unsplash.com/photo-1587502536263-1c1c3b9a1f7f?auto=format&fit=crop&q=80',
       'https://images.unsplash.com/photo-1579885881113-0a1a0f9c1cde?auto=format&fit=crop&q=80',
@@ -206,7 +206,7 @@ export const museums = [
     shortDescription:
       'A vast collection of Western European paintings in London.',
     image:
-      'https://images.unsplash.com/photo-1571607387540-0a1a0f9c1cde?auto=format&fit=crop&q=80',
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_036.JPG/1200px-Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_036.JPG?20140919110009',
     images: [
       'https://images.unsplash.com/photo-1571607387540-0a1a0f9c1cde?auto=format&fit=crop&q=80',
       'https://images.unsplash.com/photo-1580568471664-4e9a1e4d6346?auto=format&fit=crop&q=80',

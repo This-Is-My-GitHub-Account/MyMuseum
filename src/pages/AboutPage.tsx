@@ -6,7 +6,7 @@ export default function AboutPage() {
     <div className="max-w-7xl mx-auto px-4 py-12">
       {/* Hero Section */}
       <section className="text-center mb-16">
-        <h1 className="text-4xl font-bold mb-4">About MuseumPass</h1>
+        <h1 className="text-4xl font-bold mb-4">About MyMuseum</h1>
         <p className="text-xl text-gray-600 max-w-3xl mx-auto">
           Connecting art and culture enthusiasts with the world's finest museums through seamless digital experiences.
         </p>
@@ -17,7 +17,7 @@ export default function AboutPage() {
         <div className="bg-white rounded-lg shadow-md p-8">
           <h2 className="text-2xl font-bold mb-4">Our Mission</h2>
           <p className="text-gray-600">
-            At MuseumPass, we believe that art and culture should be accessible to everyone. Our mission is to bridge the gap between museums and visitors by providing a seamless, digital platform for discovering and booking museum experiences worldwide.
+            At MyMuseum, we believe that art and culture should be accessible to everyone. Our mission is to bridge the gap between museums and visitors by providing a seamless, digital platform for discovering and booking museum experiences worldwide.
           </p>
         </div>
       </section>
@@ -54,7 +54,7 @@ export default function AboutPage() {
           <div className="bg-white rounded-lg shadow-md p-6">
             <Mail className="h-8 w-8 text-blue-600 mb-4" />
             <h3 className="text-lg font-semibold mb-2">Email</h3>
-            <p className="text-gray-600">info@museumpass.com</p>
+            <p className="text-gray-600">info@MyMuseum.com</p>
           </div>
           <div className="bg-white rounded-lg shadow-md p-6">
             <Phone className="h-8 w-8 text-blue-600 mb-4" />
